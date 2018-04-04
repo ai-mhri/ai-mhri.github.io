@@ -4,29 +4,55 @@ redirect_from: "https://aim-hri.github.io"
 # Welcome to AI-MHRI 
 ### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
+<!---
 The intersection of Artificial Intelligence (AI) and Human-Robot Interaction (HRI) has recently emerged as an intriguing technical and intellectual opportunity (e.g., in recent consecutive [AAAI Fall Symposia on AI-HRI in 2014, -15, -16, and -17](https://ai-hri.gihub.io)). Multimodal interaction with robots (M-HRI), including social signals (e.g., the Interspeech satellite workshop 'Vocal Interactivity in-and-between Humans, Animals and Robots' - [VIHAR-2017](http://vihar-2017.vihar.org)), can be also seen as an area within HRI that connects directly to various topics in AI. A full exploration of this intersection, however, has yet to be realized.  The aim of this 1.5 day workshop is to integrate fundamental insights that the AI community and the HRI community have to offer each other within this context.
-
 We intend to frame the discussion by way of the complementary statements _HRI is an AI problem_ and _AI is an HRI problem_ and apply this mutual dependence to a range of relevant topics, including XAI, Planning, NLP, Machine Learning, Image Analysis, Knowledge Representation, Reasoning, (Multimodal) Dialogue, Gesture and Speech Recognition, and Autonomous Systems. In particular, the workshop will emphasize the specific AI and HRI challenges that arise from interacting with embodied agents like robots, as well as the interpretation and generation of social signals emerging from this interaction. Social signals can here refer to communicative modalities of robots and humans in direct interaction (as speech, gaze, or gesture), but it is also possible to view this term more broadly, including more general aspects of societal acceptance of technology, explainability and higher-level signals.
-
 Our aim is to organise an actual _work_-shop rather than a mini-conference, with a focus on discussions around specific topics and areas, based on research area summaries and position papers. 
+-->
 
+The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI.  HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed.  AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them.  We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop. 
 
+Because the AI-MHRI workshop takes place  during the IJCAI/ECAI, AAMAS, and ICML meetings, researchers working on AI, Autonomous Systems, and Machine Learning have an opportunity to contribute to the emerging connection between AI and HRI. This workshop builds on previous AAAI Fall Symposia (AI-HRI 2014, 2015, 2016, and 2017, see [http://ai-hri.github.io](http://ai-hri.github.io)) and connects on previous workshops in the area of social signals in HRI (e.g., Vocal Interactivity in-and-between Humans, Animals and Robots; see [http://vihar-2017.vihar.org](http://vihar-2017.vihar.org)). The AI-MHRI workshop, however, puts a greater emphasis on discussions, joint research development, and identifying promising future directions of the intersection of these fields, rather than strictly adhering to the standard “mini-conference” format. 
+
+## Workshop format:
+The two-day workshop will feature three to four invited talks that introduce major perspectives and components of the AI-MHRI interface.  In addition, a significant part of the program on Day 1 will consist of themed sessions in which researchers present short position papers that feature particular perspectives, controversial findings and ideas, novel hypotheses, or future directions — all to provoke discussion and make progress in the exchange between AI and HRI.  We particularly encourage pairs or groups of researchers to jointly write and present position papers that contrast or integrate different viewpoints.  Day 1 will close with a poster session to give junior researchers a chance to present their innovative work.  Day 2 will be reserved for paper authors to work with workshop attendees to strengthen, expand, or revise their ideas. The updated papers will be presented in the afternoon with discussions to inspire new line of research and development.  
+
+## Workshop themes:
+The workshop is dedicated to studying AI-based solutions to multimodal HRI, and to feeding AI with socially acceptable, trustworthy and effective multimodal HRI data.   It is aimed at participants with diverse backgrounds ranging from AI, robotics, interaction and speech technology, machine learning, computer vision, social psychology, and multimodal interaction. The discussions in the workshop will be organised around specific themes, based on the participants' submissions. We seek contributions on (but not limited to) the following topics:
+ 
+* Methods and architectures (e.g., learning in HRI, interactive machine learning, cognitive architectures for HRI, autonomous systems)
+* Rich communication capabilities (e.g., multimodal interaction, nonverbal communication, social signals, challenges for machine learning, availability of suitable data).
+* Interactive social robots (e.g., spoken dialogues for HRI, natural language processing for HRI, mutual adaptation, machine ethics, human-machine trust)
+* Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
+* Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI) 
+
+## Submissions:
+We accept submissions of two forms: position papers (2-4 pages) that will form the basis of the themed  sessions and discussions, and extended abstracts (2 pages) that will form the basis of the poster session.
+Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
+Accepted position papers will be posted on the workshop website before the conference, and authors commit to updating these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
+	Extended abstracts for the poster session can feature theoretical, empirical, or technical contributions. Each accepted poster contributor will introduce their take-home message in a 1-minute lightning presentation just before the poster session. 
+	All submissions should observe the above page limits and follow IJCAI formatting requirements, except that submissions should contain author names (reviewing will not be double-blind).
+	Submissions will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
+
+## Important dates:
+* **May 7:** Paper submission deadline
+* **May 28:** Author notification (planned)
+* **June 29:** Camera-ready paper deadline (tentative)
+* **July 13/14 or July 14/15:** The AI-MHRI workshop
+
+## Organisers:
+Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
+Laura Hiatt, NRL, Washington DC, USA
+Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
+Tatsuya Kawahara, Kyoto Univ., Japan
+Bertram Malle, Brown Univ., USA
+Roger Moore, Univ. of Sheffield, UK
+Elin A. Topp, Lund Univ., Sweden
+
+<!---
 **A call for contributions and other details will be published here shortly.**
-
 ### Invited speakers and panelists
 TBA
-
-### Workshop organizers:
-- Elin A. Topp, Lund University, Sweden (Elin_Anna.Topp(at)cs.lth.se)
-- Kristiina Jokinen, AIST Tokyo, Japan
-- Laura Hiatt, Naval Research Laboratory, USA
-- Gerard Bailly, GIPSA-Lab, University of Grenoble, France
-- Bertram Malle, Brown University, USA
-- Tatsuya Kawahara, University of Kyoto, Japan 
-- Roger Moore, University of Sheffield, UK
-
-
 ### Tentative dates:
-**July 13/14 or July 14/15 2018:** The AI-MHRI workshop
 **more dates will be published soon**
-
+-->
