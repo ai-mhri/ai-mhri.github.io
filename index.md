@@ -45,7 +45,6 @@ Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
 Laura Hiatt, NRL, Washington DC, USA
 Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
 Tatsuya Kawahara, Kyoto Univ., Japan
-Bertram Malle, Brown Univ., USA
 Roger Moore, Univ. of Sheffield, UK
 Elin A. Topp, Lund Univ., Sweden
 
