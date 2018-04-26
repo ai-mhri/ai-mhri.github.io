@@ -38,7 +38,7 @@ Accepted position papers will be posted on the workshop website before the confe
 * **May 7:** Paper submission deadline
 * **May 28:** Author notification (planned)
 * **June 29:** Camera-ready paper deadline (tentative)
-* **July 13/14 or July 14/15:** The AI-MHRI workshop
+* **July 14/15:** The AI-MHRI workshop
 
 ## Organisers:
 Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
@@ -47,6 +47,19 @@ Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
 Tatsuya Kawahara, Kyoto Univ., Japan
 Roger Moore, Univ. of Sheffield, UK
 Elin A. Topp, Lund Univ., Sweden
+
+## Program Committee:
+Gérard Bailly, Grenoble-Alps Univ., France
+Laura Hiatt, Carnegie Mellon Univ., USA
+Marc Hanheide, University of Lincoln, UK
+Ayanna Howard, Georgia Tech., USA
+Kristiina Jokinen, Univ. of Helsinki, Finland
+Tatsuya Kawahara, Kyoto Univ., Japan
+Takanori Komatsu, Meiji Univ., Japan
+Yukiko Nakano, Seikei Univ., Japan
+Alessandra Sciutti, Italian Institute of Technology, Italy
+Elin Anna Topp, Lund Univ., Sweden
+
 
 <!---
 **A call for contributions and other details will be published here shortly.**
