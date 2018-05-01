@@ -53,7 +53,7 @@ Elin A. Topp, Lund Univ., Sweden
 
 ## Program Committee:
 Gérard Bailly, Grenoble-Alps Univ., France
-Laura Hiatt, Carnegie Mellon Univ., USA
+Laura Hiatt, NRL, Washington DC, USA
 Marc Hanheide, University of Lincoln, UK
 Ayanna Howard, Georgia Tech., USA
 Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
