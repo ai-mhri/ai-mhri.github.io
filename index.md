@@ -26,6 +26,9 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
 * Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI) 
 
+## Invited Speakers (to be updated):
+* Amit Kumar Panday, Softbank Robotics Europe (formerly Aldebaran Robotics)
+
 ## Submissions:
 We accept submissions of two forms: position papers (2-4 pages) that will form the basis of the themed  sessions and discussions, and extended abstracts (2 pages) that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
@@ -53,7 +56,7 @@ Gérard Bailly, Grenoble-Alps Univ., France
 Laura Hiatt, Carnegie Mellon Univ., USA
 Marc Hanheide, University of Lincoln, UK
 Ayanna Howard, Georgia Tech., USA
-Kristiina Jokinen, Univ. of Helsinki, Finland
+Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
 Tatsuya Kawahara, Kyoto Univ., Japan
 Takanori Komatsu, Meiji Univ., Japan
 Yukiko Nakano, Seikei Univ., Japan
