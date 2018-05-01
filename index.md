@@ -30,9 +30,9 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Amit Kumar Panday, Softbank Robotics Europe (formerly Aldebaran Robotics)
 
 ## Submissions:
-We accept submissions of two forms: position papers (2-4 pages) that will form the basis of the themed  sessions and discussions, and extended abstracts (2 pages) that will form the basis of the poster session.
+We accept submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
-Accepted position papers will be posted on the workshop website before the conference, and authors commit to updating these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
+Accepted position papers will be posted on the workshop website before the conference, and then on ISCA/ACM archive. The authors are encouraged to update these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
 	Extended abstracts for the poster session can feature theoretical, empirical, or technical contributions. Each accepted poster contributor will introduce their take-home message in a 1-minute lightning presentation just before the poster session. 
 	All submissions should observe the above page limits and follow IJCAI formatting requirements, except that submissions should contain author names (reviewing will not be double-blind).
 	Submissions will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
