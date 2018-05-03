@@ -28,6 +28,7 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 
 ## Invited Speakers (to be updated):
 * Amit Kumar Panday, Softbank Robotics Europe (formerly Aldebaran Robotics)
+* Elisabeth André, University of Augsburg, Germany
 
 ## Submissions:
 We accept submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
@@ -53,8 +54,10 @@ Elin A. Topp, Lund Univ., Sweden
 
 ## Program Committee:
 Gérard Bailly, Grenoble-Alps Univ., France
-Laura Hiatt, NRL, Washington DC, USA
+Nick Campbell, Trinity College Dublin, Ireland
+Mary Ellen Forster, University of Glasgow, UK
 Marc Hanheide, University of Lincoln, UK
+Laura Hiatt, NRL, Washington DC, USA
 Ayanna Howard, Georgia Tech., USA
 Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
 Tatsuya Kawahara, Kyoto Univ., Japan
