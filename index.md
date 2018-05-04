@@ -39,32 +39,34 @@ Accepted position papers will be posted on the workshop website before the confe
 	Submissions will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
 
 ## Important dates:
-* **May 7:** Paper submission deadline
+* **May 14:** Paper submission deadline (extended!)
 * **May 28:** Author notification (planned)
 * **June 29:** Camera-ready paper deadline (tentative)
 * **July 14/15:** The AI-MHRI workshop
 
 ## Organisers:
-Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
-Laura Hiatt, NRL, Washington DC, USA
-Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
-Tatsuya Kawahara, Kyoto Univ., Japan
-Roger Moore, Univ. of Sheffield, UK
-Elin A. Topp, Lund Univ., Sweden
+* Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
+* Laura Hiatt, NRL, Washington DC, USA
+* Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
+* Tatsuya Kawahara, Kyoto Univ., Japan
+* Roger Moore, Univ. of Sheffield, UK
+* Elin A. Topp, Lund Univ., Sweden
 
 ## Program Committee:
-Gérard Bailly, Grenoble-Alps Univ., France
-Nick Campbell, Trinity College Dublin, Ireland
-Mary Ellen Forster, University of Glasgow, UK
-Marc Hanheide, University of Lincoln, UK
-Laura Hiatt, NRL, Washington DC, USA
-Ayanna Howard, Georgia Tech., USA
-Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
-Tatsuya Kawahara, Kyoto Univ., Japan
-Takanori Komatsu, Meiji Univ., Japan
-Yukiko Nakano, Seikei Univ., Japan
-Alessandra Sciutti, Italian Institute of Technology, Italy
-Elin Anna Topp, Lund Univ., Sweden
+* Gérard Bailly, Grenoble-Alps Univ., France
+* Nick Campbell, Trinity College Dublin, Ireland
+* Mary Ellen Foster, University of Glasgow, UK
+* Anders Green, Södertorn University, Sweden
+* Marc Hanheide, University of Lincoln, UK
+* Laura Hiatt, NRL, Washington DC, USA
+* Ayanna Howard, Georgia Tech., USA
+* Kristiina Jokinen, AIRC, AIST Tokyo Waterfront, Japan
+* Tatsuya Kawahara, Kyoto Univ., Japan
+* Takanori Komatsu, Meiji Univ., Japan
+* Stefan Kopp, Bielefeld University, Germany
+* Yukiko Nakano, Seikei Univ., Japan
+* Alessandra Sciutti, Italian Institute of Technology, Italy
+* Elin Anna Topp, Lund Univ., Sweden
 
 
 <!---
