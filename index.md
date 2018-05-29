@@ -10,6 +10,11 @@ We intend to frame the discussion by way of the complementary statements _HRI is
 Our aim is to organise an actual _work_-shop rather than a mini-conference, with a focus on discussions around specific topics and areas, based on research area summaries and position papers. 
 -->
 
+## -----------------
+## Registration information:
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)!
+## -----------------
+
 The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI.  HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed.  AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them.  We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop. 
 
 Because the AI-MHRI workshop takes place  during the IJCAI/ECAI, AAMAS, and ICML meetings, researchers working on AI, Autonomous Systems, and Machine Learning have an opportunity to contribute to the emerging connection between AI and HRI. This workshop builds on previous AAAI Fall Symposia (AI-HRI 2014, 2015, 2016, and 2017, see [http://ai-hri.github.io](http://ai-hri.github.io)) and connects on previous workshops in the area of social signals in HRI (e.g., Vocal Interactivity in-and-between Humans, Animals and Robots; see [http://vihar-2017.vihar.org](http://vihar-2017.vihar.org)). The AI-MHRI workshop, however, puts a greater emphasis on discussions, joint research development, and identifying promising future directions of the intersection of these fields, rather than strictly adhering to the standard “mini-conference” format. 
@@ -44,6 +49,11 @@ Accepted position papers will be posted on the workshop website before the confe
 * **May 28:** Author notification (planned)
 * **June 29:** Camera-ready paper deadline (tentative)
 * **July 14/15:** The AI-MHRI workshop
+
+## -----------------
+## Registration information:
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)!
+## -----------------
 
 ## Organisers:
 * Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
