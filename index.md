@@ -12,7 +12,7 @@ Our aim is to organise an actual _work_-shop rather than a mini-conference, with
 
 ## -----------------
 ## Registration information:
-To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)!
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)! The workshop has the id-number W27.
 ## -----------------
 
 The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI.  HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed.  AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them.  We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop. 
@@ -37,12 +37,14 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Matthias Scheutz, Tufts University, USA
 
 ## Submissions:
+(Submission site is closed)
 We accept submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
 Accepted position papers will be posted on the workshop website before the conference, and then on ISCA/ACM archive. The authors are encouraged to update these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
 	Extended abstracts for the poster session can feature theoretical, empirical, or technical contributions. Each accepted poster contributor will introduce their take-home message in a 1-minute lightning presentation just before the poster session. 
 	All submissions should observe the above page limits and follow IJCAI formatting requirements, except that submissions should contain author names (reviewing will not be double-blind).
-	Submissions will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
+	Submission site is closed.
+<!--- will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
@@ -52,8 +54,12 @@ Accepted position papers will be posted on the workshop website before the confe
 
 ## -----------------
 ## Registration information:
-To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)!
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)! The workshop has the id-number W27.
 ## -----------------
+
+## Venue and general information
+The workshop (with id W27) will take place at the AAMAS / ICMAL / IJCAI conference venue (Stockholmsmässan), presumably in room K24 on July 14 (all day) and July 15 (morning session only). Please check the conference workshop website at [https://www.ijcai-18.org/workshops/](https://www.ijcai-18.org/workshops/) for potential updates. 
+For recommendations regarding accommodation in the area or in central Stockholm, please check the general information at [https://www.ijcai-18.org](https://www.ijcai-18.org).
 
 ## Organisers:
 * Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
