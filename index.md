@@ -37,14 +37,17 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Matthias Scheutz, Tufts University, USA
 
 ## Submissions:
-(Submission site is closed)
+We now accept final versions of accepted papers, see below.
 We accept submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
 Accepted position papers will be posted on the workshop website before the conference, and then on ISCA/ACM archive. The authors are encouraged to update these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
 	Extended abstracts for the poster session can feature theoretical, empirical, or technical contributions. Each accepted poster contributor will introduce their take-home message in a 1-minute lightning presentation just before the poster session. 
 	All submissions should observe the above page limits and follow IJCAI formatting requirements, except that submissions should contain author names (reviewing will not be double-blind).
-	Submission site is closed.
+	Submission site is closed for new submissions.
 <!--- will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
+
+## Final Submissions:
+Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
 
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
