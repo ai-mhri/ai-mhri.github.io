@@ -52,7 +52,7 @@ Will be accepted through Easychair at [https://easychair.org/conferences/?conf=a
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
 * **May 28:** Author notification (planned)
-* **June 29:** Camera-ready paper deadline (tentative)
+* **June 29:** Publication of camera ready material (tentative)
 * **July 14/15:** The AI-MHRI workshop
 
 ## -----------------
