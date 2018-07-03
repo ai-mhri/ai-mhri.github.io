@@ -2,7 +2,7 @@
 redirect_from: "https://aim-hri.github.io"
 ---
 # Welcome to AI-MHRI 
-### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
+### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm, July 14 and 15
 
 <!---
 The intersection of Artificial Intelligence (AI) and Human-Robot Interaction (HRI) has recently emerged as an intriguing technical and intellectual opportunity (e.g., in recent consecutive [AAAI Fall Symposia on AI-HRI in 2014, -15, -16, and -17](https://ai-hri.gihub.io)). Multimodal interaction with robots (M-HRI), including social signals (e.g., the Interspeech satellite workshop 'Vocal Interactivity in-and-between Humans, Animals and Robots' - [VIHAR-2017](http://vihar-2017.vihar.org)), can be also seen as an area within HRI that connects directly to various topics in AI. A full exploration of this intersection, however, has yet to be realized.  The aim of this 1.5 day workshop is to integrate fundamental insights that the AI community and the HRI community have to offer each other within this context.
@@ -31,23 +31,58 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
 * Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI) 
 
-## Invited Speakers (to be updated):
-* Amit Kumar Panday, Softbank Robotics Europe (formerly Aldebaran Robotics)
-* Elisabeth André, University of Augsburg, Germany
-* Matthias Scheutz, Tufts University, USA
+## ----------------------------------------------------
+## Tentative schedule (might be subject to adjustments)
+## coming up soon
+## ----------------------------------------------------
+(Papers will also be made available shortly)
+<!-- Saturday, July 14:
+08:45-09:00: Welcome
+09:00-10:00: Invited speaker: Elisabeth Andre - Socially sensitive technologies
+10:00-10:30: Coffee break
+10:30-11:20: Paper presentations (10min each) and discussion session: Socially sensitive technologies:
+	* Nick Campbell: Using Multimodal Information to Support Spoken Dialogue Interaction between Humans and Robots without Intrusive 	   	Language processing
+	* Vladislav Maraev, Chiara Mazzocconi, Christine Howes and Jonathan Ginzburg: Integrating laughter into spoken dialogue systems: 		preliminary analysis and suggested programme
+11:20-11:30: Short break
+11:30-12:30: Paper presentations (10min each) and discussion session: Cognition: Mindreading and reasoning
+	* Koki Ijuin, Shohei Fujio, Albara Khalifa, Tsuneo Kato and Seiichi Yamamoto: Comparison on Effect of Eye Gaze Activities 			between Human-human and Human-robot Conversations in Second-Language
+	* Hung-Hsuan Huang, Seiya Kimura, Kazuhiro Kuwabara and Toyoaki Nishida: Proposal of a Multimodal Framework for Generating 			Robot’s Spontaneous Attention Directions and Nods in Group Discussion
+	* Momina Rizwan, Volkan Patoglu and Esra Erdem: Human-Robot Collaborative Assembly Planning using Hybrid Conditional Planning
+12:20-13:30 Lunch
+13:30-14:30: Invited speaker: Matthias Scheutz -  "Is that what you want?" Architectural Challenges of Engaging in Multi-Modal Natural 			Language Interactions with Humans
+14:30-15:30: Paper presentations (10min each) and discussion session: Interaction frameworks
+	* Sam Thellman and Tom Ziemke: Studying the Craft of Folk Psychology in HRI
+	* Elin Anna Topp and Jacek Malec: A Knowledge Based Approach to User Support for Robot Programming
+	* Mark Philipsen, Matthias Rehm and Thomas Moeslund: Industrial Human-Robot Collaboration
+15:30-16:00 Coffee break
+16:00-17:00: Paper presentations (10min each) and discussion session: Data and AI technologies for HRI
+	* Gerard Bailly and Frédéric Elisei: Demonstrating and learning multimodal socio-communicative behaviors for HRI
+	* Adrian Simon Bauer, Peter Birkenkampf, Alin Albu-Schäffer and Daniel Leidner: Bridging the Gap Between Supervised Autonomy and 		Teleoperation
+	* Neziha Akalin, Andrey Kiselev, Annica Kristoffersson and Amy Loutfi: Enhancing Social Human-Robot Interaction with Deep 			Reinforcement Learning
+Sunday, July 15:
+09:00-10:00: Invited speaker: Amit Kumar Pandey - Socially intelligent robots and societal applications
+10:00-10:30: Coffee break
+10:30-12:30: Paper presentations (10min each) and discussion session: Robots and dialogue modelling
+	* Kristiina Jokinen: AI-based Dialogue Modelling for Social Robots
+	* Katsuyoshi Yamagami, Hirokazu Kiyomaru and Sadao Kurohashi: Knowledge-based Dialog Approach for Exploring User's Intention
+	* Ioannis Papaioannou, Christian Dondrup and Oliver Lemon: Human-Robot Interaction Requires More Than Slot Filling - Multi-		* Threaded Dialogue for Collaborative Tasks and Social Conversation
+12:30-13:30 Lunch
+13:30-14:30 Afternoon workshop - wrap up and general discussion
+-->
 
 ## Submissions:
-We now accept final versions of accepted papers, see below.
-We accept submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
+The workshop is closed for submissions.
+<!-- The workshop accepted submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
 Accepted position papers will be posted on the workshop website before the conference, and then on ISCA/ACM archive. The authors are encouraged to update these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
 	Extended abstracts for the poster session can feature theoretical, empirical, or technical contributions. Each accepted poster contributor will introduce their take-home message in a 1-minute lightning presentation just before the poster session. 
 	All submissions should observe the above page limits and follow IJCAI formatting requirements, except that submissions should contain author names (reviewing will not be double-blind).
-	Submission site is closed for new submissions.
+	Submission site is closed for new submissions.-->
 <!--- will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
 ## Final Submissions:
-Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018).
+Should be available for preparation of attendance shortly.
+<!-- Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
