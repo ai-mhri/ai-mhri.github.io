@@ -12,7 +12,7 @@ Our aim is to organise an actual _work_-shop rather than a mini-conference, with
 
 ## -----------------
 ## Registration information:
-To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)! The workshop has the id-number W27.
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible for instance through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). 
 ## -----------------
 
 The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI.  HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed.  AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them.  We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop. 
@@ -92,7 +92,7 @@ Should be available for preparation of attendance shortly.
 
 ## -----------------
 ## Registration information:
-To register to the workshop, please use the general registration forms for FAIM workshops, accessible through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). Note that the early-bird deadline for the FAIM conferences is coming close (May 31)! The workshop has the id-number W27.
+To register to the workshop, please use the general registration forms for FAIM workshops, accessible for instance through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). The workshop has the id-number W27.
 ## -----------------
 
 ## Venue and general information
