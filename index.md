@@ -52,10 +52,10 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
     * Momina Rizwan, Volkan Patoglu and Esra Erdem: Human-Robot Collaborative Assembly Planning using Hybrid Conditional Planning
 * 12:20-13:30 Lunch
 * 13:30-14:30 Invited speaker: Matthias Scheutz -  "Is that what you want? Architectural Challenges of Engaging in Multi-Modal Natural Language Interactions with Humans"
-* 14:30-15:30 Paper presentations (10min each) and discussion session (Interaction frameworks)
-    * Sam Thellman and Tom Ziemke: Studying the Craft of Folk Psychology in HRI
-    * Elin Anna Topp and Jacek Malec: A Knowledge Based Approach to User Support for Robot Programming
-    * Mark Philipsen, Matthias Rehm and Thomas Moeslund: Industrial Human-Robot Collaboration
+* 14:30-15:30 (session changed!) Paper presentations (10min each) and discussion session (Robots and dialogue modelling)
+    * Kristiina Jokinen: AI-based Dialogue Modelling for Social Robots
+    * Katsuyoshi Yamagami, Hirokazu Kiyomaru and Sadao Kurohashi: Knowledge-based Dialog Approach for Exploring User's Intention
+    * Ioannis Papaioannou, Christian Dondrup and Oliver Lemon: Human-Robot Interaction Requires More Than Slot Filling - Multi-Threaded Dialogue for Collaborative Tasks and Social Conversation
 * 15:30-16:00 Coffee break
 * 16:00-17:00 Paper presentations (10min each) and discussion session (Data and AI technologies for HRI)
     * Gerard Bailly and Frédéric Elisei: Demonstrating and learning multimodal socio-communicative behaviors for HRI
@@ -65,10 +65,10 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 ### Sunday, July 15, room K24:
 * 09:00-10:00 Invited speaker: Amit Kumar Pandey - "An industrial perspective on AI needs for Multimodal HRI"
 * 10:00-10:30 Coffee break
-* 10:30-12:30 Paper presentations (10min each) and discussion session (Robots and dialogue modelling)
-    * Kristiina Jokinen: AI-based Dialogue Modelling for Social Robots
-    * Katsuyoshi Yamagami, Hirokazu Kiyomaru and Sadao Kurohashi: Knowledge-based Dialog Approach for Exploring User's Intention
-    * Ioannis Papaioannou, Christian Dondrup and Oliver Lemon: Human-Robot Interaction Requires More Than Slot Filling - Multi-Threaded Dialogue for Collaborative Tasks and Social Conversation
+* 10:30-12:30 (session changed!) Paper presentations (10min each) and discussion session (Interaction frameworks)
+    * Sam Thellman and Tom Ziemke: Studying the Craft of Folk Psychology in HRI
+    * Elin Anna Topp and Jacek Malec: A Knowledge Based Approach to User Support for Robot Programming
+    * Mark Philipsen, Matthias Rehm and Thomas Moeslund: Industrial Human-Robot Collaboration
 * 12:30- ? Wrap-up, closing remarks, lunch, and an optional continued discussion / workshop
 
 
