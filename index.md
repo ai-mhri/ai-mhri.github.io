@@ -2,7 +2,9 @@
 redirect_from: "https://aim-hri.github.io"
 ---
 # Welcome to AI-MHRI 
-### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm, July 14 and 15
+### The AI for Multimodal Human Robot Interaction Workshop 
+## at the Federated AI Meeting (FAIM) 2018 in Stockholm 
+# July 14 and 15
 
 <!---
 The intersection of Artificial Intelligence (AI) and Human-Robot Interaction (HRI) has recently emerged as an intriguing technical and intellectual opportunity (e.g., in recent consecutive [AAAI Fall Symposia on AI-HRI in 2014, -15, -16, and -17](https://ai-hri.gihub.io)). Multimodal interaction with robots (M-HRI), including social signals (e.g., the Interspeech satellite workshop 'Vocal Interactivity in-and-between Humans, Animals and Robots' - [VIHAR-2017](http://vihar-2017.vihar.org)), can be also seen as an area within HRI that connects directly to various topics in AI. A full exploration of this intersection, however, has yet to be realized.  The aim of this 1.5 day workshop is to integrate fundamental insights that the AI community and the HRI community have to offer each other within this context.
@@ -36,7 +38,7 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 ## ----------------------------------------------------
 (Papers will also be made available shortly)
 
-## Saturday, July 14:
+## Saturday, July 14, room K24:
 * 08:45-09:00 Welcome
 * 09:00-10:00 Invited speaker: Elisabeth Andre - "Socially sensitive technologies"
 * 10:00-10:30 Coffee break
@@ -60,7 +62,7 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
     * Adrian Simon Bauer, Peter Birkenkampf, Alin Albu-Schäffer and Daniel Leidner: Bridging the Gap Between Supervised Autonomy and Teleoperation
     * Neziha Akalin, Andrey Kiselev, Annica Kristoffersson and Amy Loutfi: Enhancing Social Human-Robot Interaction with Deep Reinforcement Learning
 
-## Sunday, July 15:
+## Sunday, July 15, room K24:
 * 09:00-10:00 Invited speaker: Amit Kumar Pandey - "An industrial perspective on AI needs for Multimodal HRI"
 * 10:00-10:30 Coffee break
 * 10:30-12:30 Paper presentations (10min each) and discussion session (Robots and dialogue modelling)
