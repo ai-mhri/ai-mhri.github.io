@@ -80,9 +80,9 @@ Accepted position papers will be posted on the workshop website before the confe
 	Submission site is closed for new submissions.-->
 <!--- will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
-## Final Submissions:
+<!--## Final Submissions:
 Should be available for preparation of attendance shortly.
-<!-- Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
+Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
