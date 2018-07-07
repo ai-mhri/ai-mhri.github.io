@@ -21,22 +21,20 @@ The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) wor
 
 Because the AI-MHRI workshop takes place  during the IJCAI/ECAI, AAMAS, and ICML meetings, researchers working on AI, Autonomous Systems, and Machine Learning have an opportunity to contribute to the emerging connection between AI and HRI. This workshop builds on previous AAAI Fall Symposia (AI-HRI 2014, 2015, 2016, and 2017, see [http://ai-hri.github.io](http://ai-hri.github.io)) and connects on previous workshops in the area of social signals in HRI (e.g., Vocal Interactivity in-and-between Humans, Animals and Robots; see [http://vihar-2017.vihar.org](http://vihar-2017.vihar.org)). The AI-MHRI workshop, however, puts a greater emphasis on discussions, joint research development, and identifying promising future directions of the intersection of these fields, rather than strictly adhering to the standard “mini-conference” format. 
 
-## Workshop format:
-The two-day workshop will feature three to four invited talks that introduce major perspectives and components of the AI-MHRI interface.  In addition, a significant part of the program on Day 1 will consist of themed sessions in which researchers present short position papers that feature particular perspectives, controversial findings and ideas, novel hypotheses, or future directions — all to provoke discussion and make progress in the exchange between AI and HRI.  We particularly encourage pairs or groups of researchers to jointly write and present position papers that contrast or integrate different viewpoints.  Day 1 will close with a poster session to give junior researchers a chance to present their innovative work.  Day 2 will be reserved for paper authors to work with workshop attendees to strengthen, expand, or revise their ideas. The updated papers will be presented in the afternoon with discussions to inspire new line of research and development.  
+<!-- ## Workshop format:
+The two-day workshop will feature three to four invited talks that introduce major perspectives and components of the AI-MHRI interface.  In addition, a significant part of the program on Day 1 will consist of themed sessions in which researchers present short position papers that feature particular perspectives, controversial findings and ideas, novel hypotheses, or future directions — all to provoke discussion and make progress in the exchange between AI and HRI.  We particularly encourage pairs or groups of researchers to jointly write and present position papers that contrast or integrate different viewpoints.  Day 1 will close with a poster session to give junior researchers a chance to present their innovative work.  Day 2 will be reserved for paper authors to work with workshop attendees to strengthen, expand, or revise their ideas. The updated papers will be presented in the afternoon with discussions to inspire new line of research and development. -->
 
-## Workshop themes:
+<!-- ## Workshop themes:
 The workshop is dedicated to studying AI-based solutions to multimodal HRI, and to feeding AI with socially acceptable, trustworthy and effective multimodal HRI data.   It is aimed at participants with diverse backgrounds ranging from AI, robotics, interaction and speech technology, machine learning, computer vision, social psychology, and multimodal interaction. The discussions in the workshop will be organised around specific themes, based on the participants' submissions. We seek contributions on (but not limited to) the following topics:
- 
 * Methods and architectures (e.g., learning in HRI, interactive machine learning, cognitive architectures for HRI, autonomous systems)
 * Rich communication capabilities (e.g., multimodal interaction, nonverbal communication, social signals, challenges for machine learning, availability of suitable data).
 * Interactive social robots (e.g., spoken dialogues for HRI, natural language processing for HRI, mutual adaptation, machine ethics, human-machine trust)
 * Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
-* Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI) 
+* Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI)-->
 
 ## ----------------------------------------------------
 ## Schedule (tentative)
 ## ----------------------------------------------------
-(Papers will also be made available shortly)
 
 ### Saturday, July 14, room K24:
 * 08:45-09:00 Welcome
@@ -72,8 +70,12 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * 12:30- ? Wrap-up, closing remarks, lunch, and an optional continued discussion / workshop
 
 
-## Submissions:
-The workshop is closed for submissions.
+<!-- ## Submissions:
+The workshop is closed for submissions.-->
+
+## Papers:
+Papers that will be presented and abstracts for the invited talks can be found here:[https://www.isca-speech.org/archive/AI-MHRI_2018/index.html](https://www.isca-speech.org/archive/AI-MHRI_2018/index.html)
+
 <!-- The workshop accepted submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
 Accepted position papers will be posted on the workshop website before the conference, and then on ISCA/ACM archive. The authors are encouraged to update these papers both during the workshop (in the writing sessions on Day 2) and after the workshop as possible submissions to a publication in a suitable journal.
