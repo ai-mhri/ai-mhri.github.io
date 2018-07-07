@@ -12,11 +12,10 @@ We intend to frame the discussion by way of the complementary statements _HRI is
 Our aim is to organise an actual _work_-shop rather than a mini-conference, with a focus on discussions around specific topics and areas, based on research area summaries and position papers. 
 -->
 
-## -----------------
 ## Registration information:
 To register to the workshop, please use the general registration forms for FAIM workshops, accessible for instance through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). 
-## -----------------
 
+# The Workshop
 The Artificial Intelligence for Multimodal Human Robot Interaction (AI-MHRI) workshop offers a platform for researchers at the intersection of AI and Multimodal HRI.  HRI research studies the interaction between humans and increasingly intelligent and autonomous machines, from the sensory to the physical modality, from problems of learning, social signals, collaboration, to design. Sophisticated AI models and implementations are critical in this endeavor but are not often explicitly addressed.  AI models and implementations, on their part, are often developed without sufficiently considering how humans interact with them, whether they understand them, trust them, and are willing to collaborate with them.  We thus believe that AI is a significant challenge in HRI research and HRI is a significant challenge in AI research, and this mutual significance motivates our workshop. 
 
 Because the AI-MHRI workshop takes place  during the IJCAI/ECAI, AAMAS, and ICML meetings, researchers working on AI, Autonomous Systems, and Machine Learning have an opportunity to contribute to the emerging connection between AI and HRI. This workshop builds on previous AAAI Fall Symposia (AI-HRI 2014, 2015, 2016, and 2017, see [http://ai-hri.github.io](http://ai-hri.github.io)) and connects on previous workshops in the area of social signals in HRI (e.g., Vocal Interactivity in-and-between Humans, Animals and Robots; see [http://vihar-2017.vihar.org](http://vihar-2017.vihar.org)). The AI-MHRI workshop, however, puts a greater emphasis on discussions, joint research development, and identifying promising future directions of the intersection of these fields, rather than strictly adhering to the standard “mini-conference” format. 
@@ -32,9 +31,7 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
 * Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI)-->
 
-## ----------------------------------------------------
 ## Schedule (tentative)
-## ----------------------------------------------------
 
 ### Saturday, July 14, room K24:
 * 08:45-09:00 Welcome
@@ -75,7 +72,7 @@ The workshop is closed for submissions.-->
 
 ## Papers:
 Papers that will be presented and abstracts for the invited talks can be found here:
-[https://www.isca-speech.org/archive/AI-MHRI_2018/index.html](https://www.isca-speech.org/archive/AI-MHRI_2018/index.html)
+* [https://www.isca-speech.org/archive/AI-MHRI_2018/index.html](https://www.isca-speech.org/archive/AI-MHRI_2018/index.html)
 
 <!-- The workshop accepted submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
@@ -89,20 +86,18 @@ Accepted position papers will be posted on the workshop website before the confe
 Should be available for preparation of attendance shortly.
 Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
+## Venue and general information
+The workshop (with id W27) will take place at the AAMAS / ICMAL / IJCAI conference venue (Stockholmsmässan), presumably in room K24 on July 14 (all day) and July 15 (morning session with an optional extension into the early afternoon). Please check the conference workshop website at [https://www.ijcai-18.org/workshops/](https://www.ijcai-18.org/workshops/) for potential updates. 
+For recommendations regarding accommodation in the area or in central Stockholm, please check the general information at [https://www.ijcai-18.org](https://www.ijcai-18.org).
+
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
 * **May 28:** Author notification (planned)
 * **June 29:** Publication of camera ready material (tentative)
 * **July 14/15:** The AI-MHRI workshop
 
-## -----------------
 ## Registration information:
 To register to the workshop, please use the general registration forms for FAIM workshops, accessible for instance through the registration forms for IJCAI/ECAI at [https://www.ijcai-18.org/register/](https://www.ijcai-18.org/register/). The workshop has the id-number W27.
-## -----------------
-
-## Venue and general information
-The workshop (with id W27) will take place at the AAMAS / ICMAL / IJCAI conference venue (Stockholmsmässan), presumably in room K24 on July 14 (all day) and July 15 (morning session only). Please check the conference workshop website at [https://www.ijcai-18.org/workshops/](https://www.ijcai-18.org/workshops/) for potential updates. 
-For recommendations regarding accommodation in the area or in central Stockholm, please check the general information at [https://www.ijcai-18.org](https://www.ijcai-18.org).
 
 ## Organisers:
 * Gérard Bailly, GIPSA-Lab, Univ. of Grenoble-Alps, France
