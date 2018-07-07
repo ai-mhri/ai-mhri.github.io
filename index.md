@@ -74,7 +74,8 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 The workshop is closed for submissions.-->
 
 ## Papers:
-Papers that will be presented and abstracts for the invited talks can be found here:[https://www.isca-speech.org/archive/AI-MHRI_2018/index.html](https://www.isca-speech.org/archive/AI-MHRI_2018/index.html)
+Papers that will be presented and abstracts for the invited talks can be found here:
+[https://www.isca-speech.org/archive/AI-MHRI_2018/index.html](https://www.isca-speech.org/archive/AI-MHRI_2018/index.html)
 
 <!-- The workshop accepted submissions (2-4 pages) of two forms: position papers that will form the basis of the themed sessions and discussions, and extended abstracts that will form the basis of the poster session.
 Position papers should offer a statement or illustration of how the authors' work connects, contrasts, or integrates aspects of AI and Multimodal HRI. Authors are also encouraged to speak more broadly about the role that their research can play in bringing together the individual contributions from the AI, Multimodal signal processing, and HRI communities into a cohesive view of AI-MHRI.  
