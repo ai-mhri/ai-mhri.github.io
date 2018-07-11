@@ -31,9 +31,10 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
 * Complexity of reasoning (e.g., planning for interaction, explainable AI, knowledge representation, transfer learning: new tasks, new robots, new users).
 * Social and ethical implications of AI (e.g., biased AI systems, workforce replacement, ethics of creating AI)-->
 
+
 ## Schedule (tentative)
 
-### Saturday, July 14, room K24:
+### Saturday, July 14, Stockholmsmässan, room K24:
 * 08:45-09:00 Welcome
 * 09:00-10:00 Invited speaker: Elisabeth Andre - "Socially sensitive technologies"
 * 10:00-10:30 Coffee break
@@ -57,7 +58,7 @@ The workshop is dedicated to studying AI-based solutions to multimodal HRI, and 
     * Adrian Simon Bauer, Peter Birkenkampf, Alin Albu-Schäffer and Daniel Leidner: Bridging the Gap Between Supervised Autonomy and Teleoperation
     * Neziha Akalin, Andrey Kiselev, Annica Kristoffersson and Amy Loutfi: Enhancing Social Human-Robot Interaction with Deep Reinforcement Learning
 
-### Sunday, July 15, room K24:
+### Sunday, July 15, Stockholmsmässan, room K24:
 * 09:00-10:00 Invited speaker: Amit Kumar Pandey - "An industrial perspective on AI needs for Multimodal HRI"
 * 10:00-10:30 Coffee break
 * 10:30-12:30 (session changed!) Paper presentations (10min each) and discussion session (Interaction frameworks)
@@ -87,8 +88,11 @@ Should be available for preparation of attendance shortly.
 Will be accepted through Easychair at [https://easychair.org/conferences/?conf=aimhri2018](https://easychair.org/conferences/?conf=aimhri2018). -->
 
 ## Venue and general information
-The workshop (with id W27) will take place at the AAMAS / ICMAL / IJCAI conference venue (Stockholmsmässan), presumably in room K24 on July 14 (all day) and July 15 (morning session with an optional extension into the early afternoon). Please check the conference workshop website at [https://www.ijcai-18.org/workshops/](https://www.ijcai-18.org/workshops/) for potential updates. 
+The workshop (with IJCAI-id W27) will take place at the AAMAS / ICMAL / IJCAI conference venue (Stockholmsmässan), presumably in room K24 on July 14 (all day) and July 15 (morning session with an optional extension into the early afternoon). Please check the conference workshop website at [https://www.ijcai-18.org/workshops/](https://www.ijcai-18.org/workshops/) for potential updates. 
 For recommendations regarding accommodation in the area or in central Stockholm, please check the general information at [https://www.ijcai-18.org](https://www.ijcai-18.org).
+Some information on how to get to Stockholmsmässan and find the room can be found through the venue information page of, e.g., IJCAI/ECAI: [https://www.ijcai-18.org/venues/](https://www.ijcai-18.org/venues/). 
+
+
 
 ## Important dates:
 * **May 14:** Paper submission deadline (extended!)
